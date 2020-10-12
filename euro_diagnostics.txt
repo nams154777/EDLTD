@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<titel>Euro Diagnostics Research Ltd</title>
+	</head>
+	<body>
+		<blockquote cite="https://quran.com/23/12-16">
+		<p>And certainly did WE create man from an extract of clay.
+		</p>
+		</blockquote>
+		<p><strong>Alert:COVID-19 Update</strong></p><br />
+
+		<p align=left>Welcome to Euro Diagnostics Limited<br>...We specialise in PCR / real-time PCR and related areas. We offer a range of instruments,<br>
+reagents and services to help you in the <em>extraction</em>, <em>amplification</em> and cloning of your <em>DNA</em> and <em>RNA</em> targets.</p>
+		<hr />>
+		<p align=left>We are experts in qPCR and high resolution melting analysis (HRMA) and we use these techniques for testing plant pathogens, bee viruses<br /> & 
+diseases as well as other primary industry (and some clinical) issues as well. <br />
+ We provide sequencing for bacteria, yeast and fungi identification and we're continuing to develop test kits to solve industry problems.<br />  By using the products we distribute in our lab means that we know what we sell really well, and if we don't like it, well you won't see it from us.
+	</body>
+
+<html>

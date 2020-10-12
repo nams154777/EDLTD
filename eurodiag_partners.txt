@@ -1,0 +1,15 @@
+<1DOCTYPE html>
+
+<html>
+	<head>
+	<title>Ordered lists</title>
+	</head>
+
+	<body> 
+	<p>Partner Research Institutes</p>
+	<ol> <li>Bioline UK Ltd.</li>
+	<li>Eurogentec LLC</li>
+	<li>Michery und Nagel GmbH LLC</li>
+	<li> LLC</li>
+	</ol></body>
+</html>

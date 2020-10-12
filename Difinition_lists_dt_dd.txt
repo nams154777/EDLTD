@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title>Nested Lists</title>
+	</head>
+
+	<body> 
+	
+	<h1>IOT Batch 34</h1>
+		<h2>1 year Internet of Things Diploma</h2>
+		<ol>
+		<dd>Getting stucked</dd>
+		<dd> Order Pizza via IOT, when you are stucked</dd>
+		<dt>Automobile</dt>
+		<dt>BMW</dt>
+		<dd>German car namely Byrishes Motorwerk</dd>
+	</dl>
+	</body>
+	
+</html>
